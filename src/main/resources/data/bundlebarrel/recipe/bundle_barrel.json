@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": "#minecraft:planks",
+    "S": "#minecraft:wooden_slabs",
+    "L": "minecraft:leather"
+  },
+  "pattern": [
+    "PSP",
+    "PLP",
+    "PSP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bundlebarrel:bundle_barrel"
+  }
+}
